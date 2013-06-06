@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+/* Background */
+.backColor {
+	background:#FFFFFF;
+		height:660px;
+}
+
+
+.divAutoHeight{
+	height:auto !important;
+	height:200px; /*假定最低高度是200px*/
+	min-height:200px;
+	background-color: #eee;
+}
+
+.divCloth{
+	height:590px;
+	border-right:solid;
+	border-right-color:#DDDDDD;
+	  border-right-width: 1px;
+	 
+}
+.selected { color:blue; }
+.divSorll{
+	position: absolute;
+  background-color: #e5e5e5;
+  border-bottom: 1px solid #ffffff;
+}
+.divBackColor{
+	 background-color:#0099FF;
+}
+.ulTreeleft{
+	float:left;
+}
+.login-form {
+  background-color: #eceff1;
+  border-radius: 6px;
+  padding: 24px 23px 20px;
+  position: relative; }
